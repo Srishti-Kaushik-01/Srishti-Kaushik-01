@@ -10,7 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=Srishti-Kaushik-01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>-->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-90d1a7a9dc3b.gif" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2" width="100%" alt="divider" />
+</p>
 
 <h3 align="center">💻 Tech Stack</h3>
 
@@ -35,7 +37,9 @@
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-90d1a7a9dc3b.gif" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2" width="100%" alt="divider" />
+</p>
 
 <h3 align="center">🤝 Connect with me</h3>
 
@@ -53,8 +57,15 @@
   </a>
 </p>
 
+
 <!--
 <h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srishti-Kaushik-01&layout=compact&theme=tokyonight&hide_border=true" alt="Srishti-Kaushik-01" />
+</p>
+-->
+
+<!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srishti-Kaushik-01&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
