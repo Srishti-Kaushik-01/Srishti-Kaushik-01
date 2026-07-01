@@ -41,17 +41,16 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2" width="100%" alt="divider" />
 </p>-->
 
+
 <h3 align="center">🤝 Connect with me</h3>
 
 <p align="center">
   <a href="mailto:kaushiksrishti108@gmail.com" target="_blank">
     <img src="assets/gmail.svg" alt="Email" height="35" width="45" style="margin: 0 10px;" />
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/srishti-kaushik/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" style="margin: 0 10px;" />
   </a>
-  &nbsp;
   <a href="https://www.instagram.com/k.x.shik/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45" style="margin: 0 10px;" />
   </a>
