@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=Srishti-Kaushik-01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>-->
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-90d1a7a9dc3b.gif" width="100%" />
 
 <h3 align="center">💻 Tech Stack</h3>
 
@@ -34,6 +34,8 @@
   <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-90d1a7a9dc3b.gif" width="100%" />
 
 <h3 align="center">🤝 Connect with me</h3>
 
