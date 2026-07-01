@@ -46,8 +46,15 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45" style="margin: 0 10px;" />
   </a>
 </p>
-<!--<h3 align="center">📊 GitHub Stats</h3>
 
+<!--
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srishti-Kaushik-01&theme=tokyonight&hide_border=true" alt="streak" />
-</p>-->
+</p>
+-->
+
+<h3 align="center">🐍 Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Srishti-Kaushik-01/Srishti-Kaushik-01/output/github-snake-dark.svg" alt="snake eating contributions" />
+</p>
