@@ -28,7 +28,11 @@
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white" alt="SciPy" />
   <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/git-%23F05032.svg?style=plastic&logo=git&logoColor=white" alt="Git" />
-  <!--<img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" />-->
+  <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=plastic&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=plastic&logo=googlecolab&logoColor=white" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
 <h3 align="center">🤝 Connect with me</h3>
